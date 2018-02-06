@@ -1,0 +1,9 @@
+/usr/local/share/licenses/pfSense-pkg-Cloudinit-0.4/catalog.mk
+/usr/local/share/licenses/pfSense-pkg-Cloudinit-0.4/LICENSE
+/usr/local/share/licenses/pfSense-pkg-Cloudinit-0.4/APACHE20
+pkg/cloudinit.xml
+pkg/cloudinit.inc
+/etc/inc/priv/cloudinit.priv.inc
+share/pfSense-pkg-Cloudinit/info.xml
+@dir /etc/inc
+@dir /etc/inc/priv

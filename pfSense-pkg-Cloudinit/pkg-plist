@@ -1,0 +1,6 @@
+pkg/cloudinit.xml
+pkg/cloudinit.inc
+/etc/inc/priv/cloudinit.priv.inc
+%%DATADIR%%/info.xml
+@dir /etc/inc
+@dir /etc/inc/priv

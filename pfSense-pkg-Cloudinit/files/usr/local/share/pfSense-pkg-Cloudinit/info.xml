@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<pfsensepkgs>
+	<package>
+		<name>Cloudinit</name>
+		<descr><![CDATA[Cloudinit is an agent written in Python for customizing virtual machines at boot time]]></descr>
+		<version>%%PKGVERSION%%</version>
+		<configurationfile>cloudinit.xml</configurationfile>
+	</package>
+</pfsensepkgs>

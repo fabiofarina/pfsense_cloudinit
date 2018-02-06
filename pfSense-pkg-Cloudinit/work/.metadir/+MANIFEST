@@ -1,0 +1,15 @@
+name: "pfSense-pkg-Cloudinit"
+version: "0.4"
+origin: net-mgmt/pfSense-pkg-Cloudinit
+comment: <<EOD
+pfSense package Cloud-init
+EOD
+maintainer: fabio.farina@garr.it
+prefix: /usr/local
+categories: [ net-mgmt, ]
+licenselogic: single
+licenses: [ APACHE20, ]
+deps: { 
+}
+options: {
+}
